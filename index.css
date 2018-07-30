@@ -1,0 +1,57 @@
+body {
+    margin: auto;
+    max-width: 1200px;
+    font-family: serif;
+    font-size: 1.1em;
+}
+
+  
+    
+div ul li {
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+   
+}
+div ul {
+color: black;
+    width: 550px;
+    background-color: rgba(255,255,255,0.5);
+    font-weight: bold;
+}
+
+
+
+
+
+header {
+    background-image: url("../img/kabinet.jpg");
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 50%;
+}
+
+header h5 {
+    font-size: 4rem;
+    color: black;
+    width: 550px;
+    margin: 50px 50px;
+    background-color: rgba(255,255,255,0.5);
+    font-weight: bold;
+    text-align: left;
+    font-family: serif;
+}
+
+
+ 
+div {
+    border-bottom: 1.5px #DEB887 solid;
+padding-bottom: 10px
+}
+
+    
